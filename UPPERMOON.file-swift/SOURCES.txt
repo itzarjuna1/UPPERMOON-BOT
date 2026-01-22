@@ -13,3 +13,5 @@ UPPERMOON.egg-info/requires.txt
 UPPERMOON.egg-info/top_level.txt
 strings/__init__.py
 strings/helpers.py
+
+#complete
