@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+UPPERMOON/__init__.py
+UPPERMOON/__main__.py
+UPPERMOON/logging.py
+UPPERMOON/misc.py
+UPPERMOON.egg-info/PKG-INFO
+UPPERMOON.egg-info/SOURCES.txt
+UPPERMOON.egg-info/dependency_links.txt
+UPPERMOON.egg-info/entry_points.txt
+UPPERMOON.egg-info/requires.txt
+UPPERMOON.egg-info/top_level.txt
+strings/__init__.py
+strings/helpers.py
