@@ -1,12 +1,11 @@
 Metadata-Version: 2.4
-Name: AloneMusic
+Name: UPPERMOON-BOT
 Version: 0.1.0
-Summary: 🎵 Advanced Telegram Music Bot by TheAloneTeam — PyroFork + ntgcalls + YouTube + Spotify
-Author-email: TheAloneTeam <thealoneteam@github.com>
+Summary: 🎵 Advanced Telegram Music Bot by INFINITY BOTS — PyroFork + ntgcalls + YouTube + Spotify
 License: MIT
-Project-URL: Repository, https://github.com/TheAloneTeam/AloneMusic
-Project-URL: Issues, https://github.com/TheAloneTeam/AloneMusic/issues
-Project-URL: Changelog, https://github.com/TheAloneTeam/AloneMusic/blob/master/CHANGELOG.md
+Project-URL: Repository, https://github.com/itzarjuna1/UPPERMOON-BOT
+Project-URL: Issues, https://github.com/itzarjuna1/UPPERMOON-BOT/issues
+Project-URL: Changelog, https://github.com/itzarjuna1/UPPERMOON-BOT/blob/master/CHANGELOG.md
 Keywords: telegram,music,bot,pyrogram,pyrofork,pytgcalls,youtube,spotify
 Classifier: Environment :: Console
 Classifier: Framework :: AsyncIO
@@ -53,18 +52,18 @@ Requires-Dist: prettytable>=3.12.0
 Requires-Dist: openai>=1.40.0
 Dynamic: license-file
 
-# 🎵 AloneMusic
+# 🎵 UPPERMOON-BOT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/TheAloneTeam/AloneMusic?style=social)](https://github.com/TheAloneTeam/AloneMusic/stargazers)
-[![Forks](https://img.shields.io/github/forks/TheAloneTeam/AloneMusic?style=social)](https://github.com/TheAloneTeam/AloneMusic/network/members)
+[![Stars](https://img.shields.io/github/stars/itzarjuna1/UPPERMOON-BOT?style=social)](https://github.com/itzarjuna1/UPPERMOON-BOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/itzarjuna1/UPPERMOON-BOT?style=social)](https://github.com/itzarjuna1/UPPERMOON-BOT/network/members)
 
 ---
 
 
 ## 🚀 Introduction
-**AloneMusic** is a Python-based **music bot/service** that allows users to play, pause, skip, and manage playlists with ease.  
+**UPPERMOON MUSIC** is a Python-based **music bot/service** that allows users to play, pause, skip, and manage playlists with ease.  
 It’s designed to be lightweight, fast, and customizable.  
 
 ---
@@ -80,11 +79,11 @@ It’s designed to be lightweight, fast, and customizable.
 ---
 ## ❤️ Support
 
-💬 **Telegram:** [AloneMusic](https://t.me/TheTeamHacker)  
+💬 **Telegram:** [UPPERMOON-BOT](https://t.me/TheTeamHacker)  
 
-🆘 **Any Problem? DM:** [𝚨Łꪮⲛ𝛆 🚩𝗧ε᧘‌ᴍ](https://t.me/codeshivu)
+🆘 **Any Problem? DM:** [𝗧ε᧘‌ᴍ uppermoon bots](https://t.me/cyber_github)
 
-📂 **GitHub Issues:** [Report a Problem](https://github.com/TheAloneTeam/AloneMusic/issues/new)
+📂 **GitHub Issues:** [Report a Problem](https://github.com/itzarjuna1/UPPERMOON-BOT/issues/new)
 
 ---
 
@@ -99,7 +98,7 @@ It’s designed to be lightweight, fast, and customizable.
 ### 🔹 1. Deploy on **Heroku** (One Click)
 Click this button to deploy instantly on **Heroku**:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheAloneTeam/AloneMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itzarjuna1/UPPERMOON-BOT)
 
 
 - **Update System and Install Dependencies**:  
@@ -113,7 +112,7 @@ Click this button to deploy instantly on **Heroku**:
   ```
 - **Clone the Repository:**  
   ```bash
-  git clone https://github.com/TheAloneTeam/AloneMusic cd AloneMusic
+  git clone https://github.com/itzarjuna1/UPPERMOON-BOT cd UPPERMOON-BOT
   ```
   
 - **Create and Activate a Virtual Environment:**
@@ -140,7 +139,7 @@ Click this button to deploy instantly on **Heroku**:
 
 - Run the Bot:  
   ```bash
-  python3 -m AloneMusic
+  python3 -m UPPERMOON
   ```
 
 - Detach from the **tmux** Session (Bot keeps running):  
