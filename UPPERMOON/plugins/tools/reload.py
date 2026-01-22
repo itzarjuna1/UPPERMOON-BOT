@@ -8,7 +8,7 @@ from pyrogram.enums import ChatMembersFilter
 from pyrogram.types import CallbackQuery, Message
 
 from UPPERMOON import app
-from UPPERMOON.core.call import Alone
+from UPPERMOON.core.call import Infinity
 from UPPERMOON.misc import db
 from UPPERMOON.utils.database import (get_assistant, get_authuser_names,
                                        get_cmode)
