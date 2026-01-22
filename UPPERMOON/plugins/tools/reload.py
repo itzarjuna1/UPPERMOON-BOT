@@ -1,4 +1,4 @@
-# All rights reserved.
+# All rights reserved , under copyright act ..
 import asyncio
 import time
 
