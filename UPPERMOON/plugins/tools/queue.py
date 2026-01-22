@@ -1,5 +1,5 @@
-# UPPERMOON/plugins/tools/queue.py
 # Queue system with only developer button
+# strict actions under copyright  act 
 
 import asyncio
 import os
