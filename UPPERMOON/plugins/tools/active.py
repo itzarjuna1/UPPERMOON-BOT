@@ -1,4 +1,4 @@
-# Advanced Active VC, Members & Logger
+# Advanced Active VC, Members & Logger with advanced modules 
 # Author: Upper Moon Bots | License: GNU v3.0
 from typing import List
 from unidecode import unidecode
