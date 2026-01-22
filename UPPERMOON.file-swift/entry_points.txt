@@ -1,0 +1,2 @@
+[console_scripts]
+UPPERMOON = UPPERMOON.__main__:main
