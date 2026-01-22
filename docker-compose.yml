@@ -1,0 +1,5 @@
+services:
+  UPPERMOON-BOT:
+    build: .
+    restart: always
+    env_file: .env
