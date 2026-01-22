@@ -139,7 +139,7 @@ Click this button to deploy instantly on **Heroku**:
 
 - Run the Bot:  
   ```bash
-  python3 -m UPPERMOON
+  docker run -d --env-file .env UPPERMOON
   ```
 
 - Detach from the **tmux** Session (Bot keeps running):  
